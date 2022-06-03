@@ -1,0 +1,5 @@
+aiogram
+peewee
+web3
+requests
+grequests
